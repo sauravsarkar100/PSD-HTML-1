@@ -1,0 +1,173 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Source Serif Pro', serif;
+    box-sizing: border-box;
+}
+/* hederpat */
+header{
+    background: url("../images/118893339_664669357807298_1650936920189071378_n.jpg");
+    /* background-position: center; */
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    text-transform: uppercase;
+    font-size: 1.2rem;
+}
+.color{
+    color: salmon;
+}
+.heder-font{
+    margin-top: 6rem;
+    overflow: hidden;
+}
+.heder-font h1{
+    font-size: 6rem;
+    font-weight: 700;
+    color: #D0CE09;
+}
+.heder-font h3{
+    font-size: 3rem;
+    font-weight: 600;
+    color: #D0CE09;
+}
+.heder-font a{
+    margin-le;
+}
+.land{
+    margin-top: 3rem;
+    border: 3px solid red;
+    font-size: 1.6rem;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+/* services section */
+.i{
+    color: red;
+}
+.banner-1 h1{
+    font-size: 4rem;
+    font-weight: 700;
+}
+.banner-1 p {
+    color: black;
+}
+.box{
+    width: 13.5rem;
+   background: #303343;
+    text-align: center;
+    color: #fff;
+    margin: auto;
+}
+.box h2{
+    font-weight: 600;
+}
+.box p{
+    font-weight: 300;
+}
+/* projectsection */
+.project-1{
+    background:  #303343;
+    height: 14rem;
+    color: #fff;
+    
+}
+.poj{
+    color: red;
+}
+.project-1 h2{
+    font-size: 1.5rem;
+    margin-left: 1.7rem;
+    text-transform: uppercase;
+    font-weight: 500;
+    margin-top: 2.8rem;
+}
+.project-1 h3{
+    font-size: 1rem;
+    text-transform: uppercase;
+    margin-left: 1.7rem;
+}
+.project-1 p{
+    font-size: .8rem;
+    text-transform: uppercase;
+    font-weight: 300;
+    margin-left: 1.7rem;
+}
+.img-1 img{
+    height: 14rem;
+    
+
+}
+.banner-2{
+    overflow: hidden;
+}
+/* about section */
+.banner-3 img{
+    border: 4px solid red;
+    height: 14rem;
+}
+.banner-3 h2{
+    font-size: 3rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    
+}
+.me{
+    color: red;
+}
+.banner-3 h4{
+    text-transform: uppercase;
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+.banner-3 p{
+    font-size: 1rem;
+    font-weight: 300;
+    color: #000;
+}
+.banner-3 a{
+    border: 2px solid red;
+    text-transform: uppercase;
+}
+.banner-3{
+    overflow: hidden;
+}
+/* contact section */
+.banner-4{
+    overflow: hidden;
+    
+}
+.banner-4 h2{
+    font-size: 3rem;
+    font-weight: 600;
+}
+.banner-4 span{
+    color: red;
+}
+.banner-4 .card{
+    border: 3px solid #000;
+}
+/* footerpat */
+footer{
+    background: #303343;
+    margin-top: 8rem;
+}
+footer h2{
+    font-weight: 600;
+    font-size: 3rem;
+    text-transform: uppercase;
+    padding-bottom: .5rem;
+}
+footer h4{
+    font-weight: 600;
+}
+footer h2 span{
+    color: red;
+}
+footer img{
+    width: 3rem;
+}
+footer h6{
+    text-transform: uppercase;
+    padding-top: 2rem;
+}
